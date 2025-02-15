@@ -1,0 +1,23 @@
+#headshot {
+    border: 2px solid black;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+}
+
+#personal-info {
+    color: blue;
+    font-style: italic;
+    font-family: arial;
+    font-weight: bold;
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+#about-me {
+    color: light-green;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    border-style: dashed;
+}
